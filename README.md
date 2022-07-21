@@ -17,3 +17,8 @@ untracked - files that git doesn't know.
 changed_files - files that changed and git knows.
 staged_to_commit - files that changed and were added via `git add`
 commmit - The act of saving act of the staged changes to one commit.
+
+
+## Usefull links
+* [Download git](https://git-scm.com/downloads)
+* [W3Schools git tutorial](https://www.w3schools.com/git/default.asp?remote=github)
