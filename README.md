@@ -9,6 +9,8 @@ git status - show current repo status
 git add - move a file from changed_files to staged_to_commit.
 git commit -m <message> - Wrap all off the staged_to_commit files to a single commit.
 git diff - Show the current diff from the last commit or staged_to_commit if present
+git log - Show the history of commits - a list of the commit id, author, date and commit message.
+git show <commit id> - Show the changes of a specific commit
 
 ## Git stages
 untracked - files that git doesn't know.
